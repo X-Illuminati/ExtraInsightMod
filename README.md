@@ -1,9 +1,10 @@
 # ExtraInsightMod
-Lua mod for Natural Selection 2 that augments the spectator view (known as Insight) with additional features.
-Client-side Insight mod. Currently unfinished.
-Available in the [steam workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=261331692).
+Lua mod for Natural Selection 2 that augments the spectator view (known as Insight) with additional features.  
+Client-side Insight mod; available in the [steam workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=261331692).
 
 ModId: f939aec
+
+![Mod preview image](preview.jpg)
 
 ## Features
 Mod is currently unfinished, but still might be useful to some people, especially if you are casting a match on a non-ensl server.
