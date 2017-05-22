@@ -1,3 +1,8 @@
+# Notice
+Feel free to fork the project or include it in your own mods/mod-packs.
+However, no support is provided whatsoever.
+All pull requests and issues posted to this tracker will be ignored.
+
 # ExtraInsightMod
 Lua mod for Natural Selection 2 that augments the spectator view (known as Insight) with additional features.  
 Client-side Insight mod; available in the [steam workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=261331692).
