@@ -1,0 +1,5 @@
+modEntry = [[
+	Client: lua/ExtraInsight/ExtraInsight_Client.lua,
+	Main: lua/ExtraInsight/ExtraInsight_Client.lua,
+	Priority: 5
+]]

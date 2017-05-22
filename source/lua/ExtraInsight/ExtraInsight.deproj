@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <file>
+    <filename>ExtraInsight_Client.lua</filename>
+  </file>
+  <file>
+    <filename>ModMenu_Core.lua</filename>
+  </file>
+  <file>
+    <filename>ei_chevrons.lua</filename>
+  </file>
+  <file>
+    <filename>ei_comm_player_frame.lua</filename>
+  </file>
+  <file>
+    <filename>ei_common.lua</filename>
+  </file>
+  <file>
+    <filename>ei_common_hook.lua</filename>
+  </file>
+  <file>
+    <filename>ei_console.lua</filename>
+  </file>
+  <file>
+    <filename>ei_friend_colors.lua</filename>
+  </file>
+  <file>
+    <filename>ei_menu.lua</filename>
+  </file>
+  <file>
+    <filename>ei_other_armor_bars.lua</filename>
+  </file>
+  <file>
+    <filename>ei_player_armor_bars.lua</filename>
+  </file>
+  <file>
+    <filename>ei_player_frames.lua</filename>
+  </file>
+  <file>
+    <filename>ei_ui_scale.lua</filename>
+  </file>
+</project>

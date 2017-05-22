@@ -1,0 +1,22 @@
+name        = "Extra Insight"
+source_dir  = "source"
+output_dir  = "output"
+description = [=[Client-side Insight mod. Currently unfinished.
+
+I'm publishing this mainly because I don't have enough time to work on it and maintain it and I am hoping that other people will cherry pick parts of it to include in their own mods.
+(All source files are released in the public domain.)
+
+Still, the mod may be useful to some people, especially if you are casting a match on a non-ensl server.
+Here are the current features:
+[list][*]High-contrast armor bars
+[*]Armor bars on structures
+[*]High-contrast commander player frame background
+[*]Disabled highlighting of friends on the minimap
+[*]Parasited player names in yellow (this doesn't work very well)
+[*]High-contrast marine upgrade chevrons
+[*]Options menu to turn each of these features on or off[/list]
+
+The options menu will only show up in the in-game options menu and not in the main menu unless you use [url=http://steamcommunity.com/sharedfiles/filedetails/?id=179203307]this mod[/url].
+For developers who want to add to the options menu check out [url=http://steamcommunity.com/sharedfiles/filedetails/?id=250584133]libMenuMod[/url].]=]
+image       = "preview.jpg"
+publish_id = "f939aec"
